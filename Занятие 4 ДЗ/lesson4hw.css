@@ -1,0 +1,93 @@
+.black {
+    background-color:black;
+    width:50px;
+    height:50px;
+    float:left;
+    margin:5px
+}
+
+.cyan {
+    background-color:cyan;
+    width:50px;
+    height:50px;
+    float:left;
+    margin:5px   
+}
+
+.p {
+    margin-left:500px
+}
+
+.p1{
+    margin-left:455px
+}
+
+.sub {
+    color:blue
+}
+
+.sup {
+    color:red
+}
+
+.linksdiv {
+    background-color:grey;
+    width:125px;
+    border:1px solid;
+    margin:30px;
+    padding:5px
+}
+
+#link1 {
+    text-decoration: none;
+    color:red;
+    border-right:1px solid ;
+    border-color:black
+}
+
+#link2 {
+    text-decoration: none;
+    border-right:1px solid;
+    border-color:black;
+}
+
+#link3 {
+    text-decoration: none;
+    color:yellow
+}
+
+#poem {
+    margin:30px;
+    background-color:rgb(214, 211, 211);
+    width:400px
+}
+
+#name {
+    font-size:30px;
+    color:red;
+    text-align:center
+}
+
+#date {
+    text-align:center
+
+}
+
+#poembody {
+    text-align:center;
+    padding-bottom:10px
+}
+
+#smthn {
+    background-color:green;
+    width:600px
+}
+
+#text1 {
+    color:white
+}
+
+#text2 {
+    padding:5px;
+    color:white
+}
