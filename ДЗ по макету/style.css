@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    position:relative;
+    background-color:#DBFFD6;
+    height:730px;
+    
+}
+
+.header {
+    background: #555555;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 40px 40px;
+    padding: 55px 240px;
+    z-index:1;
+    position:relative;
+    margin-top:-20px
+}
+
+
+.menu_list {
+    background: #C4C4C4;
+    border-radius: 0px 0px 40px 40px;
+    position:absolute;
+    width:800px;
+    z-index:0;
+    padding-top:165px;
+    bottom:-1; 
+    height:200px;
+    margin-top:-150px
+
+
+}
+
+.menu_part {
+    display: inline;
+    height:5px;
+    padding-top:200px;
+}
+
+.menu__list-link {
+    height:5px;
+    padding:45px
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.article {
+    float:left;
+    position:absolute;
+    margin-top:200px;
+    background-color:#555555;
+    color:#B6F6FF;
+    margin-left:55px;
+    width: 325px;
+    height: 410px;
+    top: 100px;
+    border-radius:10%;
+    padding:10px;
+}
+
+.article2 {
+float:right;
+position:absolute;
+margin-top:200px;
+background-color:#555555;
+color:#B6F6FF;
+margin-left:425px;
+width:325px;
+height:410px;
+top:100px;
+border-radius:10%;
+padding:10px
+}
+
+.arthead {
+    margin-left:100px;
+    font-size:24px;
+    color:#7EE0FF;
+    font-family: "Roboto Condensed";
+}
+
+.artart {
+    font-size:20px;
+    padding:20px;
+    font-family:"roboto"; 
+    text-align:center
+}
+
+  
